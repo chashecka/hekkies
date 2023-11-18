@@ -1,0 +1,45 @@
+body{
+  background-color: rgb(238, 210, 50);
+  font-family: Comic Sans MS, Comic Sans, cursive;
+}
+
+img{
+    padding-left: 200px;
+    position: absolute;
+    left: 200px;
+    top: 1px;
+    opacity: 0.4;
+}
+
+.E{
+    padding-left: 200px;
+    position: absolute;
+    left: 25px;
+    top: 1px;
+}
+
+.R{
+    padding-left: 200px;
+    position: absolute;
+    left: 520px;
+    top: 1px;
+}
+
+.h{
+    padding-left: 200px;
+    position: absolute;
+    left: 50px;
+    top: 1px;
+}
+
+.f{
+    padding-left: 200px;
+    position: absolute;
+    left: 300px;
+    top: 15px;
+}
+
+table{
+  position: absolute;
+  top: 200px;
+}
